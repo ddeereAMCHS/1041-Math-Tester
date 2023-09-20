@@ -1,6 +1,6 @@
 # Math Tester
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Thur 9/21 at 11:59 PM
 
 - Create a program called `MathTester.java`
 - Prompt the user for a number and calculate the absolute value of what they enter
